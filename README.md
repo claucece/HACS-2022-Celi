@@ -1,1 +1,1 @@
-# HACS-2022-Celi
+# HACS sessions around OPRFs and PQ
